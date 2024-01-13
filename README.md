@@ -12,3 +12,8 @@ Meniu Simplu: Oferă un meniu simplu pentru acces rapid la funcții precum desch
 
 ```
 ![image](https://github.com/vataseradu/Editor-de-Text-Simplu/assets/130003640/f32d5348-db4f-4200-a14e-7527a1079f96)
+
+
+
+
+//inspirat dupa un tutorial YT (brocode)
