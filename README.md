@@ -16,4 +16,3 @@ Meniu Simplu: Oferă un meniu simplu pentru acces rapid la funcții precum desch
 
 
 
-//inspirat dupa un tutorial YT (brocode)
